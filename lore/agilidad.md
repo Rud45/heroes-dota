@@ -1,0 +1,4 @@
+# Lore de los heroes de agilidad
+
+## Bloodseeker
+Strygwyr, el Buscador de Sangre (Bloodseeker) es un cazador proclamado a través de un ritual. Un Sabueso de los Gemelos Despellejados enviado en busca de sangre desde los picos envueltos en niebla de Xhacatocatl. Los Despellejados necesitan océanos de sangre para mantenerse saciados y aplacados, y podrían acabar en poco tiempo con la población de los imperios de las montañas si los sacerdotes de las altas mesetas no los apaciguan. Por lo tanto, Strygwyr parte a la caza de presas. La fuerza vital de la sangre que él derrama fluye inmediatamente a los Gemelos a través de las marcas sagradas de sus armas y armadura. A lo largo de los años, ha llegado a encarnar la energía de un feroz sabueso; en la batalla es tan salvaje como un chacal. Bajo la Máscara de Strygwyr, en la carrera por saciar la sed de sangre, se dice que alguna vez se pueden ver los rasgos de los Despellejados tomando directamente posesión de su Sabueso.
