@@ -1,5 +1,5 @@
 # Notas
 
-Este repositorio abarca todos los heroes de Dota 2 como el lore y se ira actualizando
+Este repositorio abarca todos los heroes de Dota 2 y mas cosas que se iran agregando
 
 ## Rud45
