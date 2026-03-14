@@ -7,8 +7,8 @@
 3. Bristleback
 4. Centaur Warrunner
 5. Chaos Knight
-6. Clockwerk
-7. Dawnbreaker
+6. Ambessa
+7. Aatrox
 
 ## Agilidad
 
